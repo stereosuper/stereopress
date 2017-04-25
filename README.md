@@ -1,1 +1,1 @@
-# stereopress
+# StereoPress
